@@ -17,8 +17,8 @@ Currently, we are synthesizing insights that we're gathering by:
 
 * learning about the laws and policies that both constrain and push government agencies to adopt new digital practices.  
 
-**Team**
-Alex Pandel, engagement lead
-Cyd Harrell, research lead
-Nikki Zeichner
-Nicole Fenton
+**Team**  
+Alex Pandel, engagement lead  
+Cyd Harrell, research lead  
+Nikki Zeichner  
+Nicole Fenton  
