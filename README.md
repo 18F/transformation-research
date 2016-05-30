@@ -2,10 +2,23 @@
 
 **tl;dr: [to the wiki](https://github.com/18F/transformation-research/wiki)!**
 
-Current efforts at digital transformation—moving government agencies and offices into the digital era, using modern tools and methodologies, and taking a “digital first” approach to providing public services—are taking place all over the country at every level of government.
 
-At present, there has been no comprehensive survey of what tools and practices have been most effective. Our goal is to lead a comprehensive research project to interview transformation teams across federal, city, and state governments (and possibly other governments, and relevant commercial enterprise efforts, as well) to understand what has worked, what hasn’t, and why.
+We’re performing research that we hope will help decision-makers in government better understand some of the underlying factors that enable modern digital practices to take root in a sustainable way - beyond a single innovative project or pilot.
 
-Our intended output of this research is a central, living repository of information about best practices for digital transformation inside government (most likely a website with appropriate acknowledgements, pointers, and citations, however, part of the research itself will help form what kind of resource will be most useful and accessible for the agencies we’re trying to serve).
+**Our Approach**
 
-This repo is the home for this project's findings, methods, planning and timeline documents. [Visit the wiki](https://github.com/18F/transformation-research/wiki) for details.
+Currently, we are synthesizing insights that we're gathering by:
+
+* conducting interviews with government employees at federal, state and local levels who have first hand experience working on digital transformation projects - both successful ones and failed ones
+
+* reviewing case studies from private industry which is years ahead of government in terms of adopting digital practices  
+
+* reviewing case studies from major consultancies that provide transformation and innovation services to government, and
+
+* learning about the laws and policies that both constrain and push government agencies to adopt new digital practices.  
+
+**Team**
+Alex Pandel, engagement lead
+Cyd Harrell, research lead
+Nikki Zeichner
+Nicole Fenton
