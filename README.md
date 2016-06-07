@@ -17,5 +17,5 @@ We’re synthesizing insights that we've gathered by:
 
 * Alex Pandel, engagement lead  
 * Cyd Harrell, research lead  
-* Nikki Zeichner  
-* Nicole Fenton
+* Nikki Zeichner, industry and policy researcher
+* Nicole Fenton, content designer and researcher
