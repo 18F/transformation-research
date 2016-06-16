@@ -59,7 +59,7 @@ In May 2016, 18F’s Transformation Services Team held a workshop with 18F staff
 
 We adopted this framework as our hypothesis of what the end goal of this work looks like, and our research thus far has validated these characteristics.
 
-We had originally set out to arrive at a more concrete definition of what “digital transformation” actually entails; however, our research has shown that the work of digital transformation does not necessarily have clear-cut boundaries or look the same everywhere or in every time period. We don’t list particular technologies or technical methods here, because while there’s a clear benchmark of what “modern” looks like in 2016, it’s very different from how it looked in 2006 and how it will look in 2026 and beyond. Right now getting to the cloud and being mobile-ready are on many technologists’ minds, but we found articles about computerization in the 60s and the initial move to the web in the 90s that outlined the same deeper challenges organizations face now. Therefore, for the purposes of this report, when we say “digital transformation,” we mean any activity that moves an agency toward the three characteristics of a transformed agency, as outlined above.
+We had originally set out to arrive at a more concrete definition of what “digital transformation” actually entails; however, our research has shown that the work of digital transformation does not necessarily have clear-cut boundaries or look the same everywhere or in every time period. We don’t list particular technologies or technical methods here, because while there’s a clear benchmark of what “modern” looks like in 2016, it’s very different from how it looked in 2006 and how it will look in 2026 and beyond. Right now getting to the cloud and being mobile-ready are on many technologists’ minds, but we found articles about computerization in the 60s and the initial move to the web in the 90s that outlined the same deeper challenges organizations face now. Therefore, for the purposes of this report, **when we say “digital transformation,” we mean any activity that moves an agency toward the three characteristics of a transformed agency, as outlined above**.
 
 ### The digital transformation process
 
@@ -69,7 +69,8 @@ Aside from the barriers and best practices we’ve identified thus far, we’re 
 
 2. Find explicit executive authority and justification for trying a new approach (such as laws, OMB memos, or White House directives).
 
-3. Actively work to get everyone onboard through community organizing as you do what’s necessary to move more and more parts of the organization to the new practices demonstrated in the initial project. We want to document more details about how to “do what’s necessary” in the next phase of research, but we’ve started identifying best practices as outlined below.
+3. Actively work to get everyone onboard through community organizing as you do what’s necessary to move more and more parts of the organization to the new practices demonstrated in the initial project. We want to document more details about how to “do what’s necessary” in the next phase of research, but we’ve started identifying [best practices](https://github.com/18F/transformation-research/blob/master/preliminary-report.md#how-the-best-practices-contribute-to-success) as outlined below.
+
 4. Transition-proof the changes you’ve made. Early progress often depends on creative interpretation of policies and standards, but long-term progress depends on writing what works into the rules and creating new norms.
 
 5. Long term, keep checking how well you’re fulfilling your mission and serving your users, and use technology judiciously as a tool to further those goals.
@@ -110,7 +111,7 @@ This is one of the negative factors that actually has a direct positive counterp
 
 #### Shallow adoption of modern practices
 
-We heard many accounts of teams adopting the language of agile or user-centered design, without having committed to or mastered the practices themselves. This can happen for a number of reasons, but it comes down to needing effective training and support or mentorship along the way. It can result in the ultimate assessment that the new practices don’t work any better than the old ones—when the reality is that the new practices haven’t been really been tried. This can stop transformation in its tracks, and we heard several stories where it did.
+We heard many accounts of teams adopting the _language_ of agile or user-centered design, without having committed to or mastered the _practices_ themselves. This can happen for a number of reasons, but it comes down to needing effective training and support or mentorship along the way. It can result in the ultimate assessment that the new practices don’t work any better than the old ones—when the reality is that the new practices haven’t been really been tried. This can stop transformation in its tracks, and we heard several stories where it did.
 
 As an example, one of our interviewees told us how his team was trying to do agile on their own. They wrote user stories without doing user research and designed menus without knowing what people actually need. Looking back on the project, he realized that they tried to do agile after briefly reading about it, but it wasn’t until working alongside a group of experts that they understood the process enough to apply it to their work.
 
@@ -140,7 +141,7 @@ One of our participants described his work recruiting more and more participants
 
 #### Referring to authoritative guidance
 
-Every tech-savvy leader has to make a case for transformation work to someone whose portfolio is much broader than technology. Because transformation is a long process, this may happen over and over. We assumed that references would be useful, but we were surprised by how much value managers and project leads found in authoritative guidance from government leadership, including the TechFAR Handbook, U.S. Digital Services Playbook, Open Source Policy (OMB Memorandum M-13-13), and other similar documents that set a precedent or otherwise make an official case for more modern approaches.
+Every tech-savvy leader has to make a case for transformation work to someone whose portfolio is much broader than technology. Because transformation is a long process, this may happen over and over. We assumed that references would be useful, but we were surprised by how much value managers and project leads found in authoritative guidance from government leadership, including the [TechFAR Handbook](https://playbook.cio.gov/techfar/), U.S. Digital Services Playbook](https://playbook.cio.gov/), [Open Source Policy](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf) (OMB Memorandum M-13-13), and other similar documents that set a precedent or otherwise make an official case for more modern approaches.
 
 The technical evidence for claims like “agile results in higher quality software” or “user-centered design reduces risk” isn’t evidence that non-technical senior leadership can evaluate easily. Short of leveling up significantly in their own technology-practice knowledge, their best way to assess the value and risk level of a practice is to use the authority of the source pushing for it as a proxy. A trusted subordinate is good; a trusted subordinate backed by a recognized governmental authority is always going to be better.  Given that, these documents are a critical bridge between technical evidence that something works, and administrative confidence in using it.
 
@@ -183,7 +184,7 @@ One way that we heard about is to use your hierarchical authority to mandate ind
 * Transformation is not as risky as government agencies may perceive it to be.
 * Transformation doesn’t have an endpoint; you work on it continually. The process varies, but nobody is starting at zero.
 * Changing culture to be more open and agile makes government services more user-centered and builds trust.
-* There’s not _one_ right way to do this work.
+* There’s not one _right_ way to do this work.
 
 ### Next, we decided to investigate these fundamental questions:
 
@@ -210,7 +211,7 @@ After assessing our progress, we decided to double-down on one-on-one interviews
 
 ### We adopted a “clustered” approach to recruiting research participants:
 
-Digital transformation is a complicated process, and any one person’s perspective will ultimately be incomplete. Because transformation within an agency involves people from multiple job functions, levels, and departments, we’re pursuing a participant recruiting approach that we call cluster recruiting.
+Digital transformation is a complicated process, and any one person’s perspective will ultimately be incomplete. Because transformation within an agency involves people from multiple job functions, levels, and departments, we’re pursuing a participant recruiting approach that we call _cluster recruiting_.
 
 Most of the time, our first contact and first interview is with a hands-on or mid-level person recruited through an 18F contact. In some cases, that initial contact is even a contractor, rather than a permanent agency employee. In the course of understanding how transformation works within that agency, we ask each participant about other people or positions that have been important in authorizing, socializing, or otherwise supporting their work. At the end of each interview, we return to the person they described as most important and ask if the current participant would be willing to make an introduction. We then schedule an interview with that person and go through the same process, which helps us gather different perspectives on the same transformation efforts.
 
@@ -220,20 +221,25 @@ This recruiting method has a disadvantage in that it is slow—email back and fo
 
 While we’ve identified significant controllable factors in digital transformation work, we still have many questions to pursue:
 
-* How much of an organization needs to be transformed before the new way is seen as the way?
+* How much of an organization needs to be transformed before the new way is seen as _the_ way?
+
 * What does “autonomy” for staff look like within government? (Signals that are accepted within the tech industry, such as remote work and flexible hours, are not necessarily the same in public service.)
+
 * Are failed initial releases sometimes a good thing in the long run? They can be effective drivers of attention, but they are definitely embarrassing. How can we capture what worked without replicating what didn’t?
+
 * Can Software Development Life Cycle documents (SDLCs) and similar agency-specific governance documentation be rewritten in such a way that they will be effective in 2016 without being automatically outdated in 10 years?
+
 * How big an administrative lift is it to transition-proof changes by formalizing policies that originally start out as exceptions in support of small experiments?
+
 * What are successful approaches for addressing significant technical debt? How do you begin, and how do you know when you finish?
 
 ## Next steps
 
 We’re planning to share this preliminary report with our research participants and colleagues at 18F to gather their initial reactions and feedback.
 
-In the next phase of research, we plan to continue with cluster recruiting and interviews with the goal of developing a thorough report for public distribution. We want to include more primary evidence, quotes, and stories to document and elaborate on our findings. We intend to address any gaps uncovered in initial review, check and re-validate the hypotheses we’ve shared here, and most importantly, dig deeper for concrete practices that we can recommend broadly. How have agencies gotten past the obstacle of extreme technical debt? Which types of communities of practice do the most to boost staff skill and autonomy? What support signals from leaders are most important?
+In the next phase of research, we plan to continue with cluster recruiting and interviews with the goal of developing a thorough report for public distribution. We want to include more primary evidence, quotes, and stories to document and elaborate on our findings. We intend to address any gaps uncovered in initial review, check and re-validate the hypotheses we’ve shared here, and most importantly, dig deeper for concrete practices that we can recommend broadly. _How_ have agencies gotten past the obstacle of extreme technical debt? _Which_ types of communities of practice do the most to boost staff skill and autonomy? _What_ support signals from leaders are most important?
 
-Along with a full research report, we’re planning to translate our findings into a pithy, actional web resource or playbook to support agencies in executing this critical work. We’re planning to share the report and web resource in a post on the 18F blog and promote the work we’re doing with other transformation teams and working groups in government.
+Along with a full research report, we’re planning to translate our findings into a pithy, actionable web resource or playbook to support agencies in executing this critical work. We’re planning to share the report and web resource in a post on the 18F blog and promote the work we’re doing with other transformation teams and working groups in government.
 
 ## In conclusion
 
@@ -249,25 +255,23 @@ We initially did not expect a traditional report to be a critical outcome of thi
 
 Thank you for reading, and we welcome your comments.
 
-
-
 ## Appendix
 
 ### References
 
-* Change Has Come to the White House, Macon Phillips
-* Digital Government Strategy
+* [Change Has Come to the White House](https://www.whitehouse.gov/blog/2009/01/20/change-has-come-whitehousegov), Macon Phillips
+* [Digital Government Strategy](https://playbook.cio.gov/)
 * U.S. Digital Services Playbook
-* OMB Memorandum M-13-13, Open Source Policy
-* OMB Memorandum M-16-12, Software Licensing
-* TechFAR (Federal Acquisition Regulation) Handbook
-* Circular A-130, Managing Information as a Strategic Resource
-* Information Technology: Federal Agencies Need To Address Aging Legacy Systems, GAO Report
-* NYC Digital Playbook
-* Design Principles, GOV.UK
-* DirectGov 2010 and Beyond: Revolution, not Evolution, GOV.UK
-* The CIO Problem and The CIO Problem Part 2: Innovation, Jennifer Pahlka
-* Slow Ideas, Atul Gawande
+* [OMB Memorandum M-13-13, Open Source Policy](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
+* [OMB Memorandum M-16-12, Software Licensing](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m-16-12_1.pdf)
+* [TechFAR (Federal Acquisition Regulation) Handbook](https://playbook.cio.gov/techfar/)
+* [Circular A-130, Managing Information as a Strategic Resource](https://github.com/ombegov/a130/)
+* [Information Technology: Federal Agencies Need To Address Aging Legacy Systems, GAO Report](http://www.gao.gov/products/GAO-16-468)
+* [NYC Digital Playbook](https://playbook.cityofnewyork.us/)
+* [Design Principles](https://www.gov.uk/design-principles), GOV.UK
+* [DirectGov 2010 and Beyond: Revolution, not Evolution](https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox), GOV.UK
+* [The CIO Problem](https://medium.com/code-for-america/the-cio-problem-part-1-678ae2e9d0bf?source=user_profile---------2-) and [The CIO Problem Part 2: Innovation](https://medium.com/code-for-america/the-cio-problem-part-2-innovation-af24ebc038e5?source=user_profile---------1-), Jennifer Pahlka
+* [Slow Ideas](http://www.newyorker.com/magazine/2013/07/29/slow-ideas), Atul Gawande
 
 ### Team
 
