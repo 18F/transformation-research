@@ -10,13 +10,13 @@ After spending time with 15 government staff involved in widely varied transform
 
 #### Top barriers to successful transformation
 
-* Extreme technical debt, heavy enough to prevent small engineering teams from choosing their tools and doing rapid, iterative releases.
+* **Extreme technical debt**, heavy enough to prevent small engineering teams from choosing their tools and doing rapid, iterative releases.
 
-* Difficulty concretizing the benefits of transformation. We don’t say quantifying, because that’s the problem: many benefits are clear, but qualitative in nature. This makes it hard to get buy-in for ongoing work.
+* **Difficulty concretizing the benefits of transformation**. We don’t say _quantifying_, because that’s the problem: many benefits are clear, but qualitative in nature. This makes it hard to get buy-in for ongoing work.
 
-* Teams that can’t make project decisions without leadership approval. This costs time and effort for both management and staff, and makes it hard for transformative practices to become the norm.
+* **Teams that can’t make project decisions without leadership approval**. This costs time and effort for both management and staff, and makes it hard for transformative practices to become the norm.
 
-* Failure to connect directly to users (whether they’re employees or the public). It’s harder to muster the will to seek out the most impactful practices when you don’t have a picture of the impacted people in your mind.
+* **Failure to connect directly to users** (whether they’re employees or the public). It’s harder to muster the will to seek out the most impactful practices when you don’t have a picture of the impacted people in your mind.
 
 We identified a few other barriers, such as shallow adoption of modern practices without committing enough resources, and failing to formalize experimental policy or practice changes before leadership shifts, but these four were the most critical. We saw some promising strategies to overcome some the top barriers, but we also believe 18F should develop further help for several.
 
@@ -28,7 +28,7 @@ We identified a few other barriers, such as shallow adoption of modern practices
 
 * Using community organizing techniques to bring staff on board (like monthly meetings, office hours, councils). When it comes down to it, transformation is a long process of getting people on board and supporting them in hard work. This takes non-judgmental spaces to learn, celebrate small and large wins, and get support from teammates and management.
 
-* Referring to authoritative guidance, like the TechFAR Handbook, FITARA, the Open Source Policy (OMB Memorandum M-13-13), and the U.S. Digital Services Playbook, helps tech-savvy managers make non-technical leadership comfortable allowing experiments in new practices.
+* Referring to authoritative guidance, like the [TechFAR Handbook](https://playbook.cio.gov/techfar/), [FITARA](https://management.cio.gov/implementation/), the [Open Source Policy](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf) (OMB Memorandum M-13-13), and the [U.S. Digital Services Playbook](https://playbook.cio.gov/), helps tech-savvy managers make non-technical leadership comfortable allowing experiments in new practices.
 
 There are other important components to success, like choosing the right leaders for transformation, managing contractor staff closely, and showing commitment to both team autonomy and modern practices through signals like strong delegation and budget targets. Read further for more on how these factors operate and interact.
 
@@ -39,7 +39,7 @@ You’ll note that the lists don’t match. Not every barrier has an antidote id
 
 ### Our project goal
 
-We are leading a comprehensive research project to investigate what makes modern digital practices “stick” within a government entity, beyond a single innovation project. That is, how does an agency become “transformed”, so that effective modern practices are a default way of working, rather than an experiment?
+**We are leading a comprehensive research project to investigate what makes modern digital practices “stick” within a government entity, beyond a single innovation project.** That is, how does an agency become “transformed”, so that effective modern practices are a default way of working, rather than an experiment?
 
 ### Why this question?
 
@@ -55,9 +55,9 @@ In May 2016, 18F’s Transformation Services Team held a workshop with 18F staff
 
 2. The agency chooses and manages technology effectively in the service of its larger mission.
 
-3. The agency is capable of and committed to practicing continuous improvement.
+3. The agency is capable of and committed to practicing [continuous improvement](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60678/Cabinet-Office-continuous-improvement-strategy.pdf).
 
-We adopted this framework as our hypothesis of what the end goal of this work looks like, and our research thus far has validated these characteristics. 
+We adopted this framework as our hypothesis of what the end goal of this work looks like, and our research thus far has validated these characteristics.
 
 We had originally set out to arrive at a more concrete definition of what “digital transformation” actually entails; however, our research has shown that the work of digital transformation does not necessarily have clear-cut boundaries or look the same everywhere or in every time period. We don’t list particular technologies or technical methods here, because while there’s a clear benchmark of what “modern” looks like in 2016, it’s very different from how it looked in 2006 and how it will look in 2026 and beyond. Right now getting to the cloud and being mobile-ready are on many technologists’ minds, but we found articles about computerization in the 60s and the initial move to the web in the 90s that outlined the same deeper challenges organizations face now. Therefore, for the purposes of this report, when we say “digital transformation,” we mean any activity that moves an agency toward the three characteristics of a transformed agency, as outlined above.
 
@@ -82,7 +82,7 @@ In any case, if you combine the process with the three characteristics of a tran
 
 #### Extreme technical debt
 
-While it’s possible to perform the rituals of agile software development without basic technical infrastructure in place (such as the engineering team having control of their servers and test environments), doing so doesn’t result in the same benefits. Nor does a modern content strategy have the same effect when teams try to implement it using a content management system from the pre-mobile era. Teams that try out a modern method and aren’t able to realize the benefits end up going through the motions and getting tired. 
+While it’s possible to perform the rituals of agile software development without basic technical infrastructure in place (such as the engineering team having control of their servers and test environments), doing so doesn’t result in the same benefits. Nor does a modern content strategy have the same effect when teams try to implement it using a content management system from the pre-mobile era. Teams that try out a modern method and aren’t able to realize the benefits end up going through the motions and getting tired.
 
 This also allows a situation where a prototype can be created without a path forward to a robust system. Prototypes are almost always technical exceptions, and they should always be able to be thrown away, but successful or exciting ones make promises to constituents. We heard a story from an interviewee about a very successful prototype for distributed government staff. The team tested the prototype and staff were so enthusiastic they adopted it in prototype version. But the team wasn’t able to muster either the development or acquisitions capacity to deliver a full version, and the prototype, not designed for production loads, degraded quickly. The constituents and the team were all painfully disappointed and demoralized, and a year plus after reversion, the problem the prototype addressed is still unsolved.
 
@@ -90,19 +90,19 @@ To boot, practices replicate and justify themselves. One story we heard involved
 
 #### Difficulty concretizing the benefits of transformation
 
-All of the project leads and managers we spoke with reported some version of this problem. Moving to modern digital practices promises time and cost savings eventually, but inevitably requires large commitments of resources up front. Our interviewees all believe the benefits are worth it, but none of them found a way to explain it in numbers. With numbers being very important in government in terms of efficient use of taxpayer funds, measurement of services delivered, etc., this meant it was hard to get buy-in for larger, longer, and therefore more expensive transformation projects. 
+All of the project leads and managers we spoke with reported some version of this problem. Moving to modern digital practices promises time and cost savings eventually, but inevitably requires large commitments of resources up front. Our interviewees all believe the benefits are worth it, but none of them found a way to explain it in numbers. With numbers being very important in government in terms of efficient use of taxpayer funds, measurement of services delivered, etc., this meant it was hard to get buy-in for larger, longer, and therefore more expensive transformation projects.
 
 We don’t have an answer for this yet, but we think the answer lies in finding a rigorous way to use qualitative evidence to demonstrate benefits like higher service quality and greater staff engagement, that are clear indicators of transformation’s impact but are not well captured by traditional metrics.
 
 #### Teams that can’t make project decisions without leadership approval
 
-One of our leadership interviewees shared with us that the maximum number of projects he could handle, while making all major decisions himself in a hierarchical model, was two or three. Whereas, with lightly-guided, autonomous teams having responsibility for their own decisions, he could run eight to 10 simultaneously. Given his agency’s backlog of projects, this would make a huge difference in productivity. 
+One of our leadership interviewees shared with us that the maximum number of projects he could handle, while making all major decisions himself in a hierarchical model, was two or three. Whereas, with lightly-guided, autonomous teams having responsibility for their own decisions, he could run eight to 10 simultaneously. Given his agency’s backlog of projects, this would make a huge difference in productivity.
 
 His was not the only similar story we heard, with both staff and managers lamenting the typically hierarchical relationship they were working in. Where managers found a way to empower teams to work independently, people were more productive and more engaged on both sides.
 
 #### Failure to connect directly with users (whether internal or external)
 
-When people can see how their work impacts the people they’ve committed to serving, they seek out ways to improve. When they can’t see it directly, or don’t have permission to act on that feedback, they just can’t sustain the same intensity. 
+When people can see how their work impacts the people they’ve committed to serving, they seek out ways to improve. When they can’t see it directly, or don’t have permission to act on that feedback, they just can’t sustain the same intensity.
 
 This is one of the negative factors that actually has a direct positive counterpart. We know how to fix this—through the power of direct observation of users—but it needs to be implemented consistently and universally. The reason user-centered design is so important is that doing well for the people you serve is one of the most powerful motivations there is for a professional. It is one of the few things strong enough to underpin the hard work of continuous improvement over years and decades. Absent that motivation, changing the way you work with technology is just one more mandate.
 
@@ -168,11 +168,11 @@ This kind of close integration sometimes requires changes to contracts. We heard
 
 One useful measure of whether something is important is whether an individual or an agency is willing to commit dollars to it. One of our senior interviewees shared that when he joined his agency, he assessed the seriousness of talk about user-centered design by checking the percentage of project budgets spent on usability testing. Finding it much too small, he used a simple metric to demonstrate how important that discipline was to him: he mandated higher spending percentages from the top.
 
-As a research team, we note that higher spending without quality controls is of no use, so we expect that using this factor will sometimes require clear guidance on how to hire high-quality vendors and employees in newer disciplines. 
+As a research team, we note that higher spending without quality controls is of no use, so we expect that using this factor will sometimes require clear guidance on how to hire high-quality vendors and employees in newer disciplines.
 
 #### Using hierarchical authority to make teams autonomous
 
-One of the trickiest things about transformation is that it’s very clear that doing it successfully requires employees who are both engaged and independent. How do you do that if your employees are used to deferring to authority and sending decisions up the chain? 
+One of the trickiest things about transformation is that it’s very clear that doing it successfully requires employees who are both engaged and independent. How do you do that if your employees are used to deferring to authority and sending decisions up the chain?
 
 One way that we heard about is to use your hierarchical authority to mandate independence. Managers can—and successful ones do—refuse to telegraph which side of a question they favor, insist that teams bring a recommendation and not just a question, and require teams to make significant choices for themselves and live with them. We need more examples here, but this is a very interesting way to cross the bridge.
 
@@ -210,7 +210,7 @@ After assessing our progress, we decided to double-down on one-on-one interviews
 
 ### We adopted a “clustered” approach to recruiting research participants:
 
-Digital transformation is a complicated process, and any one person’s perspective will ultimately be incomplete. Because transformation within an agency involves people from multiple job functions, levels, and departments, we’re pursuing a participant recruiting approach that we call cluster recruiting. 
+Digital transformation is a complicated process, and any one person’s perspective will ultimately be incomplete. Because transformation within an agency involves people from multiple job functions, levels, and departments, we’re pursuing a participant recruiting approach that we call cluster recruiting.
 
 Most of the time, our first contact and first interview is with a hands-on or mid-level person recruited through an 18F contact. In some cases, that initial contact is even a contractor, rather than a permanent agency employee. In the course of understanding how transformation works within that agency, we ask each participant about other people or positions that have been important in authorizing, socializing, or otherwise supporting their work. At the end of each interview, we return to the person they described as most important and ask if the current participant would be willing to make an introduction. We then schedule an interview with that person and go through the same process, which helps us gather different perspectives on the same transformation efforts.
 
@@ -243,7 +243,7 @@ To focus for a moment on the things that surprised us, there were critical eleme
 
 We were also surprised by the extent to which ongoing advocacy and communication work and emotional labor was involved in the most successful efforts. However digital and computer-focused the type of work, it is still done by people, and people need support structures in order to embrace change. Building those support structures requires significant skill and social/organizational capital. When we read case studies of digital transformation, they tend to prioritize top-level leadership (which we agree is important) but then undersell the role of mid-senior level, trusted, knowledgeable personnel spending their days answering questions, organizing meetings and working groups, and creating safe spaces for their organizations to learn. Supporting this work explicitly is crucial to the success of transformation efforts in government.
 
-Finally, the role of authoritative documents surprised us, and that is perhaps a function of our own biases as technologists coming to government from industry. We discovered that every chain of people working on technology in government eventually reports up to someone who doesn’t have tech or digital as an explicit priority in their portfolio. The people managing those interactions with nontechnical leadership need bridges to another way of thinking about technical choices, and memos, playbooks, white papers, and the like play an important role in reducing perceived risks and setting precedents. 
+Finally, the role of authoritative documents surprised us, and that is perhaps a function of our own biases as technologists coming to government from industry. We discovered that every chain of people working on technology in government eventually reports up to someone who doesn’t have tech or digital as an explicit priority in their portfolio. The people managing those interactions with nontechnical leadership need bridges to another way of thinking about technical choices, and memos, playbooks, white papers, and the like play an important role in reducing perceived risks and setting precedents.
 
 We initially did not expect a traditional report to be a critical outcome of this project, but now we’re committed to serving that final user need. We hope to develop this work further—with more specifics on successful approaches especially at the leadership and management levels—and turn it into a resource that can be relied on by others in government working to capture and extend the gains of innovation projects.
 
