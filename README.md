@@ -9,7 +9,9 @@ Correspondingly, there are many resources on how to do innovative digital projec
 
 ## Key documents
 
-We’re sharing our [preliminary report](https://github.com/18F/transformation-research/blob/master/preliminary-report.md) with our 18F colleagues and research participants. See our [wiki](https://github.com/18F/transformation-research/wiki) for more details and  history about the project.
+We’re sharing the [preliminary report](https://github.com/18F/transformation-research/blob/master/preliminary-report.md) with our research participants and 18F colleagues.
+
+For more details and history about the project, [see our wiki](https://github.com/18F/transformation-research/wiki).
 
 ## Team
 
