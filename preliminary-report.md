@@ -18,7 +18,7 @@ After spending time with 15 government staff involved in widely varied transform
 
 * **Failure to connect directly to users** (whether they’re employees or the public). It’s harder to muster the will to seek out the most impactful practices when you don’t have a picture of the impacted people in your mind.
 
-We identified a few other barriers, such as shallow adoption of modern practices without committing enough resources, and failing to formalize experimental policy or practice changes before leadership shifts, but these four were the most critical. We saw some promising strategies to overcome some the top barriers, but we also believe 18F should develop further help for several.
+We identified a few other barriers, such as shallow adoption of modern practices without committing enough resources, and failing to formalize experimental policy or practice changes before leadership shifts, but these four were the most critical. We saw some promising strategies to overcome some the top barriers, but we also believe 18F should develop further help for several of them.
 
 #### Top practices that contribute to successful transformation
 
