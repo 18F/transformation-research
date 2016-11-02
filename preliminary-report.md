@@ -22,13 +22,13 @@ We identified a few other barriers, such as shallow adoption of modern practices
 
 #### Top practices that contribute to successful transformation
 
-* Establishing constant feedback loops with users, often created by early, somewhat risky releases. These are powerful drivers of engagement at every possible level of the organization.
+* **Establishing constant feedback loops with users,** often created by early, somewhat risky releases. These are powerful drivers of engagement at every possible level of the organization.
 
-* Building cross-functional teams of substantial duration. Subject matter experts working side by side with technical specialists for months or years rather than weeks, and all being treated as full project team members.
+* **Building cross-functional teams of substantial duration.** Subject matter experts working side by side with technical specialists for months or years rather than weeks, and all being treated as full project team members.
 
-* Using community organizing techniques to bring staff on board (like monthly meetings, office hours, councils). When it comes down to it, transformation is a long process of getting people on board and supporting them in hard work. This takes non-judgmental spaces to learn, celebrate small and large wins, and get support from teammates and management.
+* **Using community organizing techniques to bring staff on board** (like monthly meetings, office hours, councils). When it comes down to it, transformation is a long process of getting people on board and supporting them in hard work. This takes non-judgmental spaces to learn, celebrate small and large wins, and get support from teammates and management.
 
-* Referring to authoritative guidance, like the [TechFAR Handbook](https://playbook.cio.gov/techfar/), [FITARA](https://management.cio.gov/implementation/), the [Open Data Policy](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf) (OMB Memorandum M-13-13), and the [U.S. Digital Services Playbook](https://playbook.cio.gov/), helps tech-savvy managers make non-technical leadership comfortable allowing experiments in new practices.
+* **Referring to authoritative guidance,** like the [TechFAR Handbook](https://playbook.cio.gov/techfar/), [FITARA](https://management.cio.gov/implementation/), the [Open Data Policy](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf) (OMB Memorandum M-13-13), and the [U.S. Digital Services Playbook](https://playbook.cio.gov/), helps tech-savvy managers make non-technical leadership comfortable allowing experiments in new practices.
 
 There are other important components to success, like choosing the right leaders for transformation, managing contractor staff closely, and showing commitment to both team autonomy and modern practices through signals like strong delegation and budget targets. Read further for more on how these factors operate and interact.
 
