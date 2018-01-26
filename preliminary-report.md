@@ -262,8 +262,8 @@ Thank you for reading, and we welcome your comments.
 * [Change Has Come to the White House](https://www.whitehouse.gov/blog/2009/01/20/change-has-come-whitehousegov), Macon Phillips
 * [Digital Government Strategy](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf)
 * [U.S. Digital Services Playbook](https://playbook.cio.gov/)
-* [OMB Memorandum M-13-13, Open Data Policy](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
-* [OMB Memorandum M-16-12, Software Licensing](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m-16-12_1.pdf)
+* [OMB Memorandum M-13-13, Open Data Policy](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-13.pdf)
+* [OMB Memorandum M-16-12, Software Licensing](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m-16-12_1.pdf)
 * [TechFAR (Federal Acquisition Regulation) Handbook](https://playbook.cio.gov/techfar/)
 * [Circular A-130, Managing Information as a Strategic Resource](https://github.com/ombegov/a130/)
 * [Information Technology: Federal Agencies Need To Address Aging Legacy Systems, GAO Report](http://www.gao.gov/products/GAO-16-468)
