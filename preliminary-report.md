@@ -28,7 +28,7 @@ We identified a few other barriers, such as shallow adoption of modern practices
 
 * **Using community organizing techniques to bring staff on board** (like monthly meetings, office hours, councils). When it comes down to it, transformation is a long process of getting people on board and supporting them in hard work. This takes non-judgmental spaces to learn, celebrate small and large wins, and get support from teammates and management.
 
-* **Referring to authoritative guidance,** like the [TechFAR Handbook](https://playbook.cio.gov/techfar/), [FITARA](https://management.cio.gov/implementation/), the [Open Data Policy](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf) (OMB Memorandum M-13-13), and the [U.S. Digital Services Playbook](https://playbook.cio.gov/), helps tech-savvy managers make non-technical leadership comfortable allowing experiments in new practices.
+* **Referring to authoritative guidance,** like the [TechFAR Handbook](https://playbook.cio.gov/techfar/), [FITARA](https://management.cio.gov/implementation/), the [Open Data Policy](https://policy.cio.gov/open-data/) (OMB Memorandum M-13-13), and the [U.S. Digital Services Playbook](https://playbook.cio.gov/), helps tech-savvy managers make non-technical leadership comfortable allowing experiments in new practices.
 
 There are other important components to success, like choosing the right leaders for transformation, managing contractor staff closely, and showing commitment to both team autonomy and modern practices through signals like strong delegation and budget targets. Read further for more on how these factors operate and interact.
 
@@ -141,7 +141,7 @@ One of our participants described his work recruiting more and more participants
 
 #### Referring to authoritative guidance
 
-Every tech-savvy leader has to make a case for transformation work to someone whose portfolio is much broader than technology. Because transformation is a long process, this may happen over and over. We assumed that references would be useful, but we were surprised by how much value managers and project leads found in authoritative guidance from government leadership, including the [TechFAR Handbook](https://playbook.cio.gov/techfar/), [U.S. Digital Services Playbook](https://playbook.cio.gov/), [Open Data Policy](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf) (OMB Memorandum M-13-13), and other similar documents that set a precedent or otherwise make an official case for more modern approaches.
+Every tech-savvy leader has to make a case for transformation work to someone whose portfolio is much broader than technology. Because transformation is a long process, this may happen over and over. We assumed that references would be useful, but we were surprised by how much value managers and project leads found in authoritative guidance from government leadership, including the [TechFAR Handbook](https://playbook.cio.gov/techfar/), [U.S. Digital Services Playbook](https://playbook.cio.gov/), [Open Data Policy](https://policy.cio.gov/open-data/) (OMB Memorandum M-13-13), and other similar documents that set a precedent or otherwise make an official case for more modern approaches.
 
 The technical evidence for claims like “agile results in higher quality software” or “user-centered design reduces risk” isn’t evidence that non-technical senior leadership can evaluate easily. Short of leveling up significantly in their own technology-practice knowledge, their best way to assess the value and risk level of a practice is to use the authority of the source pushing for it as a proxy. A trusted subordinate is good; a trusted subordinate backed by a recognized governmental authority is always going to be better.  Given that, these documents are a critical bridge between technical evidence that something works, and administrative confidence in using it.
 
@@ -260,12 +260,12 @@ Thank you for reading, and we welcome your comments.
 ### References
 
 * [Change Has Come to the White House](https://www.whitehouse.gov/blog/2009/01/20/change-has-come-whitehousegov), Macon Phillips
-* [Digital Government Strategy](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf)
+* [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html)
 * [U.S. Digital Services Playbook](https://playbook.cio.gov/)
-* [OMB Memorandum M-13-13, Open Data Policy](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-13.pdf)
+* [OMB Memorandum M-13-13, Open Data Policy](https://policy.cio.gov/open-data/)
 * [OMB Memorandum M-16-12, Software Licensing](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m-16-12_1.pdf)
 * [TechFAR (Federal Acquisition Regulation) Handbook](https://playbook.cio.gov/techfar/)
-* [Circular A-130, Managing Information as a Strategic Resource](https://github.com/ombegov/a130/)
+* [Circular A-130, Managing Information as a Strategic Resource](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf)
 * [Information Technology: Federal Agencies Need To Address Aging Legacy Systems, GAO Report](http://www.gao.gov/products/GAO-16-468)
 * [NYC Digital Playbook](https://playbook.cityofnewyork.us/)
 * [Design Principles](https://www.gov.uk/design-principles), GOV.UK
