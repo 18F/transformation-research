@@ -282,4 +282,4 @@ Nikki Zeichner, industry and policy researcher
 
 ### About 18F
 
-18F is an office inside the General Services Administration that helps other federal agencies build, buy, and share efficient and easy-to-use digital services. We’re a team of technology experts that work with agencies to diagnose problems and then work alongside agency teams to find the right solutions.
+[18F](https://18f.gsa.gov/) is an office inside the General Services Administration that helps other federal agencies build, buy, and share efficient and easy-to-use digital services. We’re a team of technology experts that work with agencies to diagnose problems and then work alongside agency teams to find the right solutions.
